@@ -1,0 +1,1 @@
+print("Yurchenko Arturn, IPZ-7")
